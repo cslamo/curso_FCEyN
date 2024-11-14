@@ -18,3 +18,10 @@ Descargar 4 archivos de:
 Entrar en fastq_pass; barcode07 and barcode09 y descargar los archivos fastq:
 <https://github.com/genomic-medicine-sweden/gms-artic/tree/master/.github/data/nanopore/20200311_1427_X1_FAK72834_a3787181>
 
+TAREAS:
+En Galaxy:
+Visualizar el contenido de los archivos y notar la estructura (descriptores, secuencia y datos de calidad)
+Inspeccionar los FASTQ con FastQC
+
+
+
