@@ -23,5 +23,9 @@ En Galaxy:
 Visualizar el contenido de los archivos y notar la estructura (descriptores, secuencia y datos de calidad)
 Inspeccionar los FASTQ con FastQC
 
+Examinar los 3 reportes HTML, los cuales coresponden a 3 experimentos nuestros, utilizando la flowcell FLONGLE.
+
+
+
 
 
