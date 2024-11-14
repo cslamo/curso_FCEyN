@@ -11,21 +11,27 @@ Matsuo, Y., Komiya, S., Yasumizu, Y. et al. Full-length 16S rRNA gene amplicon a
 <https://ddbj.nig.ac.jp/public/ddbj_database/dra/fastq/DRA010/DRA010097/DRX215335/DRR225050_1.fastq.bz2>
 <https://ddbj.nig.ac.jp/public/ddbj_database/dra/fastq/DRA010/DRA010097/DRX215335/DRR225050_2.fastq.bz2>
 
-SARS-cov19
+SARS-cov-19
 Descargar 4 archivos de:
 <https://github.com/genomic-medicine-sweden/gms-artic/tree/master/.github/data/fastqs>
 
 Entrar en fastq_pass; barcode07 and barcode09 y descargar los archivos fastq:
 <https://github.com/genomic-medicine-sweden/gms-artic/tree/master/.github/data/nanopore/20200311_1427_X1_FAK72834_a3787181>
 
+Descargar el archivo Galaxy399_seqtk_sample_on_data_382_gorgojo__Subsample_of_reads.fastq 
+
 TAREAS:
 En Galaxy:
 Visualizar el contenido de los archivos y notar la estructura (descriptores, secuencia y datos de calidad)
 Inspeccionar los FASTQ con FastQC
 
+Con Nanoplot, examinar varios de los archivos descargados.
+
+Intentar ensamblar datos de nanopore con Flye
+
 Examinar los 3 reportes HTML, los cuales coresponden a 3 experimentos nuestros, utilizando la flowcell FLONGLE.
 
-
+En Epi2me, correr el programa 16S con los archivos DRR225044 y 046
 
 
 
